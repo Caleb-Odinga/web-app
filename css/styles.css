@@ -1,0 +1,30 @@
+body, html {
+    height: 100%;
+}
+.login-container {
+    height: 70vh; /* Adjust height as needed */
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 50%;
+}
+
+h1 {
+    color: #74cc00;
+}
+a {
+    color: #85cc00;
+    text-decoration: none;
+}
+.form-control {
+    border-radius: 30px;
+}
+.login-btn {
+    background-color: #a300cc;
+    color: white;
+    border-radius: 30px;
+}
+.login-btn:hover {
+    background-color: #7a00b3;
+    color: white;
+}
